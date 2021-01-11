@@ -19,7 +19,11 @@
     ]
   },
   "flex-layout.col#right": {
-    "children": [ "product-name", "product-price", "buy-button"  ],
+    "children": [ 
+      "product-name", 
+      "product-price", 
+      "buy-button"  
+    ],
     "props": {
       "verticalAlign": "top",
       "preventVertivicalStretch": true

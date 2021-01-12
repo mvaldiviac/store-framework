@@ -1,0 +1,10 @@
+{
+    "footer": {
+      "blocks": ["footer-layout.desktop"]
+    },
+    "footer-layout.desktop": {
+      "children": [
+        "flex-layout.row#footer-1-desktop"
+      ]
+    }
+}
